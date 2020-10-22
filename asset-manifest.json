@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/appletest/static/css/main.5f361e03.chunk.css",
-    "main.js": "/appletest/static/js/main.51a255e5.chunk.js",
-    "main.js.map": "/appletest/static/js/main.51a255e5.chunk.js.map",
-    "runtime-main.js": "/appletest/static/js/runtime-main.6d2b67cd.js",
-    "runtime-main.js.map": "/appletest/static/js/runtime-main.6d2b67cd.js.map",
-    "static/js/2.c31f35db.chunk.js": "/appletest/static/js/2.c31f35db.chunk.js",
-    "static/js/2.c31f35db.chunk.js.map": "/appletest/static/js/2.c31f35db.chunk.js.map",
-    "index.html": "/appletest/index.html",
-    "precache-manifest.adea379ffed3249a4db11b5617615bf7.js": "/appletest/precache-manifest.adea379ffed3249a4db11b5617615bf7.js",
-    "service-worker.js": "/appletest/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/appletest/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c31f35db.chunk.js.LICENSE.txt": "/appletest/static/js/2.c31f35db.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/appletest/static/media/logo.5d5d9eef.svg"
+    "main.css": "/AppleTest/static/css/main.5f361e03.chunk.css",
+    "main.js": "/AppleTest/static/js/main.81da73a4.chunk.js",
+    "main.js.map": "/AppleTest/static/js/main.81da73a4.chunk.js.map",
+    "runtime-main.js": "/AppleTest/static/js/runtime-main.416ebe16.js",
+    "runtime-main.js.map": "/AppleTest/static/js/runtime-main.416ebe16.js.map",
+    "static/js/2.c31f35db.chunk.js": "/AppleTest/static/js/2.c31f35db.chunk.js",
+    "static/js/2.c31f35db.chunk.js.map": "/AppleTest/static/js/2.c31f35db.chunk.js.map",
+    "index.html": "/AppleTest/index.html",
+    "precache-manifest.1f558656887951fdf7f079ded75c7078.js": "/AppleTest/precache-manifest.1f558656887951fdf7f079ded75c7078.js",
+    "service-worker.js": "/AppleTest/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/AppleTest/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c31f35db.chunk.js.LICENSE.txt": "/AppleTest/static/js/2.c31f35db.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AppleTest/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d2b67cd.js",
+    "static/js/runtime-main.416ebe16.js",
     "static/js/2.c31f35db.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.51a255e5.chunk.js"
+    "static/js/main.81da73a4.chunk.js"
   ]
 }
